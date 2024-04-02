@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241272891472",
+    "project_id": "fat-gallery-27490",
+    "storage_bucket": "fat-gallery-27490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241272891472:android:dc6e4ee1875c001dc7c955",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241272891472-q7p0n12887ff6ti8q6peahf3rd5q8khp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Rf58hYPiv3OxmGEMCv3gnZYRu37ob6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241272891472-q7p0n12887ff6ti8q6peahf3rd5q8khp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
